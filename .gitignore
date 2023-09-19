@@ -1,0 +1,17 @@
+*.db
+.project
+.pydevproject
+.settings
+*.pyc
+*.pyo
+dist
+build
+MANIFEST
+*.egg-infogit
+*.sqlite3
+.coverage
+__pycache__/
+.idea
+env
+env/
+logs.log
